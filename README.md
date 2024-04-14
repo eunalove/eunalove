@@ -1,4 +1,4 @@
-<div align="center"> 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DD4124&text=%20OhEuna%20%20&height=200&fontSize=90&fontColor=ffffff" alt="header"><br/>
 
   ## 📖 주니어 백엔드 개발자, 오은아입니다
