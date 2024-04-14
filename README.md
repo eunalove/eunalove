@@ -1,3 +1,7 @@
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DD4124&text=%20OhEuna%20%20&height=200&fontSize=90&fontColor=ffffff" alt="header"><br/>
+
+  ## 📖 주니어 백엔드 개발자, 오은아입니다
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunalove&show_icons=true&theme=graywhite)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alervbty12)](https://solved.ac/eunalove)
@@ -22,7 +26,6 @@ https://simpleicons.org/
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ### 🏆 Prizes
-<div align = "left">
   <h4> 2023.03 | 2022 지역문제해결 프로젝트 대회 산업부 장관상</h4>
   <ul>
     <li> 👉 <a href= "https://github.com/ColorfulCard">대구시 컬러풀카드 앱</a></li>
@@ -36,8 +39,7 @@ https://simpleicons.org/
   <h4> 2023.05 | 한국정보처리학회 춘계학술발표대회 (ASK 2023) 동상</h4>
   <ul>
     <li>"맞벌이 부부를 위한 종합 육아 앱 설계 및 구현" 논문에서 일과 가정을 양립하는 것에 어려움을 겪는 맞벌이 부부들의 일상에 도움을 주는 모바일 앱의 설계 및 구현 내용을 서술함</li>
-  </ul>
-</div>
+  </ul
 
 ### 🎯 Projects
 
@@ -48,11 +50,10 @@ https://simpleicons.org/
 
 
 ### 📜Certifications
-<ul>
-  <li> 2021.10.01 | SQL 개발자(SQLD) 취득</li>
-  <li> 2023.11.16 | 삼성 SW 역량 테스트 A형 취득</li>
-  <li> 2023.06.09 | 정보처리기사 취득</li>
-  <li> 2024.03.07 | OPIC IM1 취득</li>
+   2021.10.01 | SQL 개발자(SQLD) 취득</br>
+   2023.11.16 | 삼성 SW 역량 테스트 A형 취득</br>
+   2023.06.09 | 정보처리기사 취득</br>
+   2024.03.07 | OPIC IM1 취득</br>
 
 </ul>
 <br/>
@@ -62,3 +63,4 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/erropp89@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">
 
   
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=DD4124)
